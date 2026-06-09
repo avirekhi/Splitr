@@ -17,7 +17,7 @@ import { STEPS, TESTIMONIALS } from "@/lib/landing";
 const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/splitrapp",       // TODO: replace with real page if different
   instagram: "https://www.instagram.com/splitrapp",     // TODO: replace with real page if different
-  github: "https://github.com/dhruvbajaj13/Splitr",     // repo link is correct
+  github: "https://github.com/avirekhi/Splitr",     // repo link is correct
   x: "https://x.com/splitrapp"                          // TODO: replace with real page if different
 };
 
@@ -182,7 +182,7 @@ export default function LandingPage() {
             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100 mb-3 text-center sm:text-left">Follow Us</h3>
             <div className="flex space-x-6 text-xl justify-center sm:justify-start">
               <a
-                href="https://www.linkedin.com/in/dhruvbajaj13/"
+                href="https://www.linkedin.com/in/avideep-kaur-580b0a311"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-transform transform hover:scale-110 focus:scale-110"
@@ -194,7 +194,7 @@ export default function LandingPage() {
                 />
               </a>
               <a
-                href="https://github.com/dhruvbajaj13/Splitr"
+                href="https://github.com/avirekhi/Splitr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-transform transform hover:scale-110 focus:scale-110"

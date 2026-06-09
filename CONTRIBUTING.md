@@ -82,7 +82,7 @@ It simplifies splitting bills between friends, tracking payments, and managing s
 
 * 💬 GitHub Discussions for ideas & queries
 * 📢 GSSoC Discord for community chats
-* 📧 Contact Dhruv Bajaj (Project Admin) at d4bajaj@gmail.com for urgent issues
+* 📧 Contact Avideep Kaur (Project Admin) at kauravideep2@gmail.com for urgent issues
 
 
 # 💡First PR Ideas

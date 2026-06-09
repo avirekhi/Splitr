@@ -25,7 +25,7 @@ Project admins are responsible for clarifying standards of acceptable behavior a
 This Code of Conduct applies within all project spaces and in public spaces when representing the project.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to **Dhruv Bajaj (Project Admin)** at **d4bajaj@gmail.com**.  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to **Avideep Kaur (Project Admin)** at **kauravideep2@gmail.com**.  
 All complaints will be reviewed and investigated promptly.
 
 ## Attribution
