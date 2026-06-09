@@ -17,25 +17,31 @@ export const metadata = {
 
 
 export default function RootLayout({ children }) {
-
   return (
     <html lang="en" suppressHydrationWarning>
-      <head>
-        <link rel="icon" href="/logos/logo-s.png" sizes="any" />
-      </head>
-      <body className={`${inter.className}`}>
-        <ThemeProvider>
-          <ClerkProvider publishableKey={process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY}>
-            <ConvexClientProvider>
+      <body className={inter.className}>
+        
+        <ClerkProvider>
+          
+          <ConvexClientProvider>
+            
+            <ThemeProvider>
+              
               <Header />
+              
               <main className="min-h-screen p-0 m-0">
                 <Toaster richColors />
                 {children}
               </main>
-              <ScrollToTop /> {/* 👈 Added here */}
-            </ConvexClientProvider>
-          </ClerkProvider>
-        </ThemeProvider>
+
+              <ScrollToTop />
+
+            </ThemeProvider>
+
+          </ConvexClientProvider>
+
+        </ClerkProvider>
+
       </body>
     </html>
   );
